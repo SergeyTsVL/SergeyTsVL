@@ -2,7 +2,7 @@
 <h3 align="center">Я увлеченный бэкенд-разработчик на Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeytsvl&label=Profile%20views&color=0e75b6&style=flat" alt="сергейтсвл" /> </p>
-![alt text](icons8-питон.gif)
+![using a color picker](icons8-питон.gif)
 
 
 
