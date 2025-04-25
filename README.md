@@ -7,5 +7,3 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeytsvl&show_icons=true&locale=en" alt="sergeytsvl" /></p>
-
