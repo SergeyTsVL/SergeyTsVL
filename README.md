@@ -6,6 +6,7 @@
   <img width="40" height="40" src="icons8-pyton.gif" alt="color picker" />
   <img width="40" height="40" src="icons8-html.gif" alt="color picker" />
   <img width="40" height="40" src="django.gif" alt="color picker" />
+  <img width="40" height="40" src="FastAPI.gif" alt="color picker" />
 </div>
 
 
