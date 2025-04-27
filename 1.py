@@ -3,7 +3,7 @@ from PIL import Image
 # Список для хранения кадров.
 frames = []
 
-for frame_number in range(1, 9):
+for frame_number in range(1, 12):
     # Открываем изображение каждого кадра.
     frame = Image.open(f'django/{frame_number}.png')
     # Добавляем кадр в список с кадрами.
