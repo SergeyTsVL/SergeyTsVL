@@ -7,6 +7,10 @@
   <img width="40" height="40" src="icons8-html.gif" alt="color picker" />
   <img width="40" height="40" src="django.gif" alt="color picker" />
   <img width="40" height="40" src="FastAPI.gif" alt="color picker" />
+  <img width="40" height="40" src="sql.jpg" alt="color picker" />
+  <img width="40" height="40" src="telegram.gif" alt="color picker" />
+  <img width="40" height="40" src="json.png" alt="color picker" />
+  <img width="40" height="40" src="csv.png" alt="color picker" />
 </div>
 
 
