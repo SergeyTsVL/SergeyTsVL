@@ -14,6 +14,9 @@
   <img width="70" height="40" src="postgres.png" alt="color picker" />
   <img width="60" height="40" src="docker.jpg" alt="color picker" />
   <img width="70" height="40" src="opencv.jpeg" alt="color picker" />
+  <img width="70" height="40" src="ML.jpg" alt="color picker" />
+  <img width="70" height="40" src="MTL.jpg" alt="color picker" />
+  <img width="70" height="40" src="Pandas.jpg" alt="color picker" />
 </div>
 
 
