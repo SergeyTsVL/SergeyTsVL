@@ -18,6 +18,7 @@
   <img width="60" height="40" src="MTL.jpg" alt="color picker" />
   <img width="80" height="40" src="pandas.gif" alt="color picker" />
   <img width="70" height="40" src="tkiner.png" alt="color picker" />
+  <img width="70" height="40" src="Pygame.png" alt="color picker" />
 </div>
 
 
