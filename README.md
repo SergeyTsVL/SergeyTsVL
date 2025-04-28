@@ -11,7 +11,7 @@
   <img width="40" height="40" src="telegram.gif" alt="color picker" />
   <img width="40" height="40" src="json.png" alt="color picker" />
   <img width="40" height="40" src="csv.png" alt="color picker" />
-  <img width="40" height="40" src="postgres.png" alt="color picker" />
+  <img width="60" height="40" src="postgres.png" alt="color picker" />
 </div>
 
 
