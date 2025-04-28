@@ -12,7 +12,7 @@
   <img width="40" height="40" src="json.png" alt="color picker" />
   <img width="40" height="40" src="csv.png" alt="color picker" />
   <img width="80" height="40" src="postgres.png" alt="color picker" />
-  <img width="60" height="40" src="docker.jpg" alt="color picker" />
+  <img width="60" height="40" src="docker.gif" alt="color picker" />
   <img width="70" height="40" src="opencv.jpeg" alt="color picker" />
   <img width="70" height="40" src="ML.jpg" alt="color picker" />
   <img width="60" height="40" src="MTL.jpg" alt="color picker" />
