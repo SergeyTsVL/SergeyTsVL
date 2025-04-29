@@ -25,7 +25,7 @@
   <img width="40" height="40" src="unnamed.png" alt="color picker" title="В разработке применяю объектно-ориентиованное программирование"/>
   <img width="40" height="40" src="PyTorch.png" alt="color picker" title="В разработке применяю PyTorch"/>
   <img width="40" height="40" src="SQLAlchemy.png" alt="color picker" title="В разработке применяю SQLAlchemy"/>
-  <img width="40" height="40" src="TensorFlow.png" alt="color picker" title="В разработке применяю TensorFlow"/>
+  <img width="40" height="40" src="TensorFlow.png" alt="color picker" title="Изучаю и учусь применять на практике TensorFlow"/>
   <img width="40" height="40" src="Ubuntu.png" alt="color picker" title="В разработке применяю Ubuntu"/>
   <img width="40" height="40" src="Git.png" alt="color picker" title="В разработке применяю Git"/>
   <img width="40" height="40" src="GitHub.png" alt="color picker" title="В разработке применяю GitHub"/>
