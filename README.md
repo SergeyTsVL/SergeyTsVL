@@ -34,6 +34,7 @@
   <img width="40" height="40" src="NumPy.png" alt="color picker" />
   <img width="40" height="40" src="Powershell.png" alt="color picker" />
   <img width="40" height="40" src="PyCharm.png" alt="color picker" />
+  <img width="40" height="40" src="Ploty.png" alt="color picker" />
 </div>
 
 
