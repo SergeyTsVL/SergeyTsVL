@@ -17,10 +17,10 @@
   <img width="55" height="40" src="docker.gif" alt="color picker" title="В разработке применяю docker"/>
   <img width="85" height="40" src="opencv.jpeg" alt="color picker" title="В разработке применяю opencv"/>
   <img width="70" height="40" src="ML.jpg" alt="color picker" title="Изучаю машинное обучение"/>
-  <img width="50" height="45" src="MTL.gif" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="80" height="40" src="pandas.gif" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="70" height="40" src="tkiner.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="90" height="40" src="Pygame.png" alt="color picker" title="В разработке применяю Ploty"/>
+  <img width="50" height="45" src="MTL.gif" alt="color picker" title="В разработке применяю matlab"/>
+  <img width="80" height="40" src="pandas.gif" alt="color picker" title="В разработке применяю pandas"/>
+  <img width="70" height="40" src="tkiner.png" alt="color picker" title="В разработке применяю tkiner"/>
+  <img width="90" height="40" src="Pygame.png" alt="color picker" title="В разработке применяю Pygame"/>
   <img width="40" height="40" src="unnamed.png" alt="color picker" title="В разработке применяю Ploty"/>
   <img width="40" height="40" src="PyTorch.png" alt="color picker" title="В разработке применяю Ploty"/>
   <img width="40" height="40" src="SQLAlchemy.png" alt="color picker" title="В разработке применяю Ploty"/>
