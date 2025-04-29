@@ -34,8 +34,8 @@
   <img width="40" height="40" src="Powershell.png" alt="color picker" title="В разработке применяю Powershell"/>
   <img width="40" height="40" src="PyCharm.png" alt="color picker" title="В разработке применяю PyCharm"/>
   <img width="40" height="40" src="Ploty.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="Matplotlib.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="Anaconda.png" alt="color picker" title="В разработке применяю Ploty"/>
+  <img width="40" height="40" src="Matplotlib.png" alt="color picker" title="В разработке применяю Matplotlib"/>
+  <img width="40" height="40" src="Anaconda.png" alt="color picker" title="В разработке применяю Anaconda"/>
 
 </div>
 
