@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">Мой стек в разработке:</h3>
 <div>
-  <img width="40" height="40" src="icons8-pyton.gif     " alt="color picker" title="Язык программирования pyton 3"/>
+  <img width="40" height="40" src="icons8-pyton.gif" alt="color picker" title="Язык программирования pyton 3"/>
   <img width="40" height="40" src="icons8-html.gif" alt="color picker" title="В разработке представлений применяю html"/>
   <img width="40" height="40" src="Django.png" alt="color picker" title="В веб разработке применяю Django"/>
   <img width="40" height="40" src="FastAPI.png" alt="color picker" title="В веб разработке применяю FastAPI"/>
