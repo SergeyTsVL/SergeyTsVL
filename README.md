@@ -4,6 +4,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeytsvl&label=Profile%20views&color=0e75b6&style=flat" alt="сергейтсвл" /> </p>
   <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergeyTsVL" alt="сергейтсвл" /> </p>
 </div>
+<h3 align="center">Мой стек в разработке</h3>
 <div>
   <img width="40" height="40" src="icons8-pyton.gif" alt="color picker" title="Язык программирования pyton 3"/>
   <img width="40" height="40" src="icons8-html.gif" alt="color picker" title="В разработке представлений применяю html"/>
