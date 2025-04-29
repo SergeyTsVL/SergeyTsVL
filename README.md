@@ -7,7 +7,7 @@
 <div>
   <img width="40" height="40" src="icons8-pyton.gif" alt="color picker" />
   <img width="40" height="40" src="icons8-html.gif" alt="color picker" />
-  <img width="70" height="40" src="Django.png" alt="color picker" />
+  <img width="40" height="40" src="Django.png" alt="color picker" />
   <img width="70" height="40" src="FastAPI.gif" alt="color picker" />
   <img width="40" height="40" src="sql.jpg" alt="color picker" />
   <img width="40" height="40" src="telegram.gif" alt="color picker" />
