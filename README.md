@@ -21,17 +21,17 @@
   <img width="80" height="40" src="pandas.gif" alt="color picker" title="В разработке применяю pandas"/>
   <img width="70" height="40" src="tkiner.png" alt="color picker" title="В разработке применяю tkiner"/>
   <img width="90" height="40" src="Pygame.png" alt="color picker" title="В разработке применяю Pygame"/>
-  <img width="40" height="40" src="unnamed.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="PyTorch.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="SQLAlchemy.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="TensorFlow.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="Ubuntu.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="Git.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="GitHub.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="Keras.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="NumPy.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="Powershell.png" alt="color picker" title="В разработке применяю Ploty"/>
-  <img width="40" height="40" src="PyCharm.png" alt="color picker" title="В разработке применяю Ploty"/>
+  <img width="40" height="40" src="unnamed.png" alt="color picker" title="В разработке применяю объектно-ориентиованное программирование"/>
+  <img width="40" height="40" src="PyTorch.png" alt="color picker" title="В разработке применяю PyTorch"/>
+  <img width="40" height="40" src="SQLAlchemy.png" alt="color picker" title="В разработке применяю SQLAlchemy"/>
+  <img width="40" height="40" src="TensorFlow.png" alt="color picker" title="В разработке применяю TensorFlow"/>
+  <img width="40" height="40" src="Ubuntu.png" alt="color picker" title="В разработке применяю Ubuntu"/>
+  <img width="40" height="40" src="Git.png" alt="color picker" title="В разработке применяю Git"/>
+  <img width="40" height="40" src="GitHub.png" alt="color picker" title="В разработке применяю GitHub"/>
+  <img width="40" height="40" src="Keras.png" alt="color picker" title="Изучаю Keras"/>
+  <img width="40" height="40" src="NumPy.png" alt="color picker" title="В разработке применяю NumPy"/>
+  <img width="40" height="40" src="Powershell.png" alt="color picker" title="В разработке применяю Powershell"/>
+  <img width="40" height="40" src="PyCharm.png" alt="color picker" title="В разработке применяю PyCharm"/>
   <img width="40" height="40" src="Ploty.png" alt="color picker" title="В разработке применяю Ploty"/>
 </div>
 
