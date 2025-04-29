@@ -15,7 +15,7 @@
   <img width="40" height="40" src="json.png" alt="color picker" title="В разработке применяю json"/>
   <img width="40" height="40" src="csv.png" alt="color picker" title="В разработке применяю csv"/>
   <img width="80" height="40" src="postgres.png" alt="color picker" title="В разработке применяю postgresql"/>
-  <img width="55" height="40" src="docker.gif" alt="color picker" title="В разработке применяю docker"/>
+  <img width="55" height="40" src="docker.gif" alt="color picker" title="Изучаю и применяю docker"/>
   <img width="85" height="40" src="opencv.jpeg" alt="color picker" title="В разработке применяю opencv"/>
   <img width="70" height="40" src="ML.jpg" alt="color picker" title="Изучаю машинное обучение"/>
   <img width="50" height="45" src="MTL.gif" alt="color picker" title="В разработке применяю matlab"/>
