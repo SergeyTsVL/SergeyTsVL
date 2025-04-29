@@ -9,7 +9,7 @@
   <img width="40" height="40" src="icons8-pyton.gif" alt="color picker" title="Язык программирования pyton 3"/>
   <img width="40" height="40" src="icons8-html.gif" alt="color picker" title="В разработке представлений применяю html"/>
   <img width="40" height="40" src="Django.png" alt="color picker" title="В веб разработке применяю Django"/>
-  <img width="70" height="40" src="FastAPI.png" alt="color picker" title="В веб разработке применяю FastAPI"/>
+  <img width="40" height="40" src="FastAPI.png" alt="color picker" title="В веб разработке применяю FastAPI"/>
   <img width="40" height="40" src="sql.jpg" alt="color picker" title="В разработке применяю sql"/>
   <img width="40" height="40" src="telegram.gif" alt="color picker" title="Разработал telegram bot"/>
   <img width="40" height="40" src="json.png" alt="color picker" title="В разработке применяю json"/>
