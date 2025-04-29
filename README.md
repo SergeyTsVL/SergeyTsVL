@@ -22,13 +22,11 @@
   <img width="70" height="40" src="tkiner.png" alt="color picker" />
   <img width="90" height="40" src="Pygame.png" alt="color picker" />
   <img width="40" height="40" src="unnamed.png" alt="color picker" />
-
   <img width="40" height="40" src="PyTorch.png" alt="color picker" />
   <img width="40" height="40" src="SQLAlchemy.png" alt="color picker" />
   <img width="40" height="40" src="TensorFlow.png" alt="color picker" />
   <img width="40" height="40" src="Ubuntu.png" alt="color picker" />
   <img width="40" height="40" src="Git.png" alt="color picker" />
-
   <img width="40" height="40" src="GitHub.png" alt="color picker" />
   <img width="40" height="40" src="Keras.png" alt="color picker" />
   <img width="40" height="40" src="NumPy.png" alt="color picker" />
