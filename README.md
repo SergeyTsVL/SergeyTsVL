@@ -2,7 +2,7 @@
 <h3 align="center">Я бэкенд-разработчик на Python</h3>
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeytsvl&label=Profile%20views&color=0e75b6&style=flat" alt="сергейтсвл" /> </p>
-  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergeyTsVL" alt="сергейтсвл" /> </p>
+  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?username=SergeyTsVL" alt="сергейтсвл" /> </p>
 </div>
 <h3 align="center">Мой стек в разработке:</h3>
 <div>
