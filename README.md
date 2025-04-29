@@ -2,8 +2,8 @@
 <h3 align="center">Я увлеченный бэкенд-разработчик на Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeytsvl&label=Profile%20views&color=0e75b6&style=flat" alt="сергейтсвл" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergeyTsVL" alt="сергейтсвл" /> </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergeyTsVL&repo=github-readme-stats" alt="сергейтсвл" /> </p>
 <div>
   <img width="40" height="40" src="icons8-pyton.gif" alt="color picker" />
   <img width="40" height="40" src="icons8-html.gif" alt="color picker" />
