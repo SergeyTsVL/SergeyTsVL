@@ -37,6 +37,7 @@
   <img width="40" height="40" src="Matplotlib.png" alt="color picker" title="В разработке применяю Matplotlib"/>
   <img width="40" height="40" src="Anaconda.png" alt="color picker" title="В разработке применяю Anaconda"/>
   <img width="40" height="40" src="Fork.png" alt="color picker" title="В разработке применяю Fork"/>
+  <img width="40" height="40" src="Visual_Studio_Code_1.35_icon.svg.png" alt="color picker" title="В разработке применяю Visual Studio Code"/>
 </div>
 
 
