@@ -1,8 +1,8 @@
 <h1 align="center">Привет 👋, меня зовут Сергей</h1>
 <h3 align="center"> <a href="https://sergeytsvl.github.io/tsaser.github.io/"> Я бэкенд-разработчик на Python (портфолио)</a></h3>
 <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeytsvl&label=Profile%20views&color=0e75b6&style=flat" alt="сергейтсвл" /> </p>
-  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergeyTsVL" alt="сергейтсвл" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeytsvl&label=Profile%20views&color=0e75b6&style=flat" alt="sergeytsvl" /> </p>
+  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergeyTsVL" alt="sergeytsvl" /> </p>
 </div>
 <h3 align="center">Мой стек в разработке:</h3>
 <div>
